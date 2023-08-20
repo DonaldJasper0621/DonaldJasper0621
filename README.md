@@ -1,7 +1,4 @@
 ## Hi, I am Donald Jasper Su! 
-
- 
- ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
