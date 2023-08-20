@@ -1,9 +1,5 @@
 ## Hi, I am Donald Jasper Su! 
- <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldJasper0621&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DonaldJasper0621&theme=tokyonight&hide_border=true"/> -->
-</div>
+
  
  ## Skills
 <div style="display: inline_block"><br>
