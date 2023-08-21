@@ -22,6 +22,6 @@
 
 
  
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tonyrj3268/Tonyrj3268/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
  
 </div>
